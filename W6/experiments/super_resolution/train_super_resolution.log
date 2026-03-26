@@ -1,0 +1,269 @@
+2025-03-25 23:39:07,181 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:39:33,199 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:40:55,840 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:42:17,546 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:42:26,611 - train - INFO - Train epoch 0: [0/30 (0%)]	Loss: 382418.875 |	MSE loss: 5.881 |
+2025-03-25 23:50:19,908 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:50:30,008 - train - INFO - Train epoch 0: [0/30 (0%)]	Loss: 1590333184.000 |	MSE loss: 24457.258 |
+2025-03-25 23:51:17,768 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:51:27,121 - train - INFO - Train epoch 1: [0/30 (0%)]	Loss: 505905312.000 |	MSE loss: 7780.167 |
+2025-03-25 23:51:41,943 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:51:51,598 - train - INFO - Train epoch 2: [0/30 (0%)]	Loss: 72611024.000 |	MSE loss: 1116.663 |
+2025-03-25 23:52:06,005 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:52:15,370 - train - INFO - Train epoch 3: [0/30 (0%)]	Loss: 5447032.000 |	MSE loss: 83.768 |
+2025-03-25 23:52:29,732 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:52:39,090 - train - INFO - Train epoch 4: [0/30 (0%)]	Loss: 60177968.000 |	MSE loss: 925.459 |
+2025-03-25 23:52:53,585 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:53:03,108 - train - INFO - Train epoch 5: [0/30 (0%)]	Loss: 85392664.000 |	MSE loss: 1313.228 |
+2025-03-25 23:53:17,561 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:53:26,871 - train - INFO - Train epoch 6: [0/30 (0%)]	Loss: 59689948.000 |	MSE loss: 917.954 |
+2025-03-25 23:53:41,532 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:53:50,584 - train - INFO - Train epoch 7: [0/30 (0%)]	Loss: 23260978.000 |	MSE loss: 357.724 |
+2025-03-25 23:54:05,117 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:54:14,116 - train - INFO - Train epoch 8: [0/30 (0%)]	Loss: 3953887.250 |	MSE loss: 60.806 |
+2025-03-25 23:54:28,728 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:54:37,573 - train - INFO - Train epoch 9: [0/30 (0%)]	Loss: 2321522.750 |	MSE loss: 35.702 |
+2025-03-25 23:54:51,962 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:55:00,881 - train - INFO - Train epoch 10: [0/30 (0%)]	Loss: 6748880.000 |	MSE loss: 103.789 |
+2025-03-25 23:55:15,188 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:55:24,153 - train - INFO - Train epoch 11: [0/30 (0%)]	Loss: 8468309.000 |	MSE loss: 130.232 |
+2025-03-25 23:55:38,530 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:55:47,425 - train - INFO - Train epoch 12: [0/30 (0%)]	Loss: 6234580.000 |	MSE loss: 95.880 |
+2025-03-25 23:56:01,724 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:56:10,672 - train - INFO - Train epoch 13: [0/30 (0%)]	Loss: 3068179.000 |	MSE loss: 47.185 |
+2025-03-25 23:56:25,057 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:56:34,272 - train - INFO - Train epoch 14: [0/30 (0%)]	Loss: 1480113.250 |	MSE loss: 22.762 |
+2025-03-25 23:56:49,557 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:56:58,670 - train - INFO - Train epoch 15: [0/30 (0%)]	Loss: 1543152.375 |	MSE loss: 23.732 |
+2025-03-25 23:57:13,338 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:57:22,063 - train - INFO - Train epoch 16: [0/30 (0%)]	Loss: 1988467.875 |	MSE loss: 30.580 |
+2025-03-25 23:57:36,721 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:57:45,765 - train - INFO - Train epoch 17: [0/30 (0%)]	Loss: 1973421.875 |	MSE loss: 30.349 |
+2025-03-25 23:58:00,701 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:58:09,701 - train - INFO - Train epoch 18: [0/30 (0%)]	Loss: 1608677.375 |	MSE loss: 24.739 |
+2025-03-25 23:58:24,538 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:58:33,920 - train - INFO - Train epoch 19: [0/30 (0%)]	Loss: 1331872.250 |	MSE loss: 20.482 |
+2025-03-25 23:58:48,952 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:58:58,117 - train - INFO - Train epoch 20: [0/30 (0%)]	Loss: 1292446.750 |	MSE loss: 19.876 |
+2025-03-25 23:59:48,011 - train - INFO - Learning rate: 2e-05
+2025-03-25 23:59:58,632 - train - INFO - Train epoch 21: [0/30 (0%)]	Loss: 1344122.750 |	MSE loss: 20.671 |
+2025-03-26 00:00:14,621 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:02:29,359 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:02:34,112 - train - INFO - Train epoch 0: [0/30 (0%)]	Loss: 26017.061 |	MSE loss: 0.400 |
+2025-03-26 00:02:43,631 - train - INFO - Train epoch 0: [10/30 (33%)]	Loss: 6497.572 |	MSE loss: 0.100 |
+2025-03-26 00:02:53,264 - train - INFO - Train epoch 0: [20/30 (67%)]	Loss: 4712.368 |	MSE loss: 0.072 |
+2025-03-26 00:04:03,400 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:04:08,219 - train - INFO - Train epoch 1: [0/30 (0%)]	Loss: 3251.182 |	MSE loss: 0.050 |
+2025-03-26 00:04:17,826 - train - INFO - Train epoch 1: [10/30 (33%)]	Loss: 3175.236 |	MSE loss: 0.049 |
+2025-03-26 00:04:27,346 - train - INFO - Train epoch 1: [20/30 (67%)]	Loss: 3738.616 |	MSE loss: 0.057 |
+2025-03-26 00:04:36,643 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:04:41,417 - train - INFO - Train epoch 2: [0/30 (0%)]	Loss: 3199.164 |	MSE loss: 0.049 |
+2025-03-26 00:04:51,045 - train - INFO - Train epoch 2: [10/30 (33%)]	Loss: 2716.442 |	MSE loss: 0.042 |
+2025-03-26 00:05:00,598 - train - INFO - Train epoch 2: [20/30 (67%)]	Loss: 3170.482 |	MSE loss: 0.049 |
+2025-03-26 00:05:09,925 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:05:14,693 - train - INFO - Train epoch 3: [0/30 (0%)]	Loss: 2635.250 |	MSE loss: 0.041 |
+2025-03-26 00:05:24,212 - train - INFO - Train epoch 3: [10/30 (33%)]	Loss: 2253.475 |	MSE loss: 0.035 |
+2025-03-26 00:05:33,711 - train - INFO - Train epoch 3: [20/30 (67%)]	Loss: 2849.790 |	MSE loss: 0.044 |
+2025-03-26 00:05:43,236 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:05:49,955 - train - INFO - Train epoch 4: [0/30 (0%)]	Loss: 2010.057 |	MSE loss: 0.031 |
+2025-03-26 00:05:59,898 - train - INFO - Train epoch 4: [10/30 (33%)]	Loss: 1985.145 |	MSE loss: 0.031 |
+2025-03-26 00:06:09,643 - train - INFO - Train epoch 4: [20/30 (67%)]	Loss: 2496.110 |	MSE loss: 0.038 |
+2025-03-26 00:06:19,146 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:06:23,913 - train - INFO - Train epoch 5: [0/30 (0%)]	Loss: 1730.829 |	MSE loss: 0.027 |
+2025-03-26 00:06:33,691 - train - INFO - Train epoch 5: [10/30 (33%)]	Loss: 1834.281 |	MSE loss: 0.028 |
+2025-03-26 00:06:43,432 - train - INFO - Train epoch 5: [20/30 (67%)]	Loss: 2214.125 |	MSE loss: 0.034 |
+2025-03-26 00:06:53,084 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:06:57,837 - train - INFO - Train epoch 6: [0/30 (0%)]	Loss: 1594.719 |	MSE loss: 0.025 |
+2025-03-26 00:07:07,602 - train - INFO - Train epoch 6: [10/30 (33%)]	Loss: 1772.797 |	MSE loss: 0.027 |
+2025-03-26 00:07:17,327 - train - INFO - Train epoch 6: [20/30 (67%)]	Loss: 2071.939 |	MSE loss: 0.032 |
+2025-03-26 00:07:26,846 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:07:31,594 - train - INFO - Train epoch 7: [0/30 (0%)]	Loss: 1452.941 |	MSE loss: 0.022 |
+2025-03-26 00:07:41,356 - train - INFO - Train epoch 7: [10/30 (33%)]	Loss: 1721.710 |	MSE loss: 0.026 |
+2025-03-26 00:07:51,215 - train - INFO - Train epoch 7: [20/30 (67%)]	Loss: 1951.534 |	MSE loss: 0.030 |
+2025-03-26 00:08:00,744 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:08:05,711 - train - INFO - Train epoch 8: [0/30 (0%)]	Loss: 1339.193 |	MSE loss: 0.021 |
+2025-03-26 00:08:15,447 - train - INFO - Train epoch 8: [10/30 (33%)]	Loss: 1755.091 |	MSE loss: 0.027 |
+2025-03-26 00:08:25,224 - train - INFO - Train epoch 8: [20/30 (67%)]	Loss: 1895.789 |	MSE loss: 0.029 |
+2025-03-26 00:08:34,775 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:08:39,456 - train - INFO - Train epoch 9: [0/30 (0%)]	Loss: 1251.588 |	MSE loss: 0.019 |
+2025-03-26 00:08:49,303 - train - INFO - Train epoch 9: [10/30 (33%)]	Loss: 1768.040 |	MSE loss: 0.027 |
+2025-03-26 00:08:59,090 - train - INFO - Train epoch 9: [20/30 (67%)]	Loss: 1848.512 |	MSE loss: 0.028 |
+2025-03-26 00:09:08,602 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:09:13,391 - train - INFO - Train epoch 10: [0/30 (0%)]	Loss: 1185.310 |	MSE loss: 0.018 |
+2025-03-26 00:09:23,257 - train - INFO - Train epoch 10: [10/30 (33%)]	Loss: 1752.490 |	MSE loss: 0.027 |
+2025-03-26 00:09:33,065 - train - INFO - Train epoch 10: [20/30 (67%)]	Loss: 1791.385 |	MSE loss: 0.028 |
+2025-03-26 00:10:44,283 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:10:49,157 - train - INFO - Train epoch 11: [0/30 (0%)]	Loss: 1133.058 |	MSE loss: 0.017 |
+2025-03-26 00:10:59,077 - train - INFO - Train epoch 11: [10/30 (33%)]	Loss: 1703.772 |	MSE loss: 0.026 |
+2025-03-26 00:11:08,816 - train - INFO - Train epoch 11: [20/30 (67%)]	Loss: 1702.181 |	MSE loss: 0.026 |
+2025-03-26 00:11:18,326 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:11:23,086 - train - INFO - Train epoch 12: [0/30 (0%)]	Loss: 1083.495 |	MSE loss: 0.017 |
+2025-03-26 00:11:32,814 - train - INFO - Train epoch 12: [10/30 (33%)]	Loss: 1614.956 |	MSE loss: 0.025 |
+2025-03-26 00:11:42,545 - train - INFO - Train epoch 12: [20/30 (67%)]	Loss: 1583.230 |	MSE loss: 0.024 |
+2025-03-26 00:11:52,250 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:11:57,115 - train - INFO - Train epoch 13: [0/30 (0%)]	Loss: 1036.120 |	MSE loss: 0.016 |
+2025-03-26 00:12:06,875 - train - INFO - Train epoch 13: [10/30 (33%)]	Loss: 1479.468 |	MSE loss: 0.023 |
+2025-03-26 00:12:17,231 - train - INFO - Train epoch 13: [20/30 (67%)]	Loss: 1443.505 |	MSE loss: 0.022 |
+2025-03-26 00:12:26,800 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:12:31,694 - train - INFO - Train epoch 14: [0/30 (0%)]	Loss: 993.762 |	MSE loss: 0.015 |
+2025-03-26 00:12:41,441 - train - INFO - Train epoch 14: [10/30 (33%)]	Loss: 1307.753 |	MSE loss: 0.020 |
+2025-03-26 00:12:51,271 - train - INFO - Train epoch 14: [20/30 (67%)]	Loss: 1292.794 |	MSE loss: 0.020 |
+2025-03-26 00:13:00,688 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:13:05,383 - train - INFO - Train epoch 15: [0/30 (0%)]	Loss: 968.359 |	MSE loss: 0.015 |
+2025-03-26 00:13:14,949 - train - INFO - Train epoch 15: [10/30 (33%)]	Loss: 1159.867 |	MSE loss: 0.018 |
+2025-03-26 00:13:24,594 - train - INFO - Train epoch 15: [20/30 (67%)]	Loss: 1183.239 |	MSE loss: 0.018 |
+2025-03-26 00:13:34,145 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:13:38,987 - train - INFO - Train epoch 16: [0/30 (0%)]	Loss: 953.709 |	MSE loss: 0.015 |
+2025-03-26 00:13:48,839 - train - INFO - Train epoch 16: [10/30 (33%)]	Loss: 1107.978 |	MSE loss: 0.017 |
+2025-03-26 00:13:58,607 - train - INFO - Train epoch 16: [20/30 (67%)]	Loss: 1113.587 |	MSE loss: 0.017 |
+2025-03-26 00:14:08,163 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:14:12,855 - train - INFO - Train epoch 17: [0/30 (0%)]	Loss: 932.878 |	MSE loss: 0.014 |
+2025-03-26 00:14:22,749 - train - INFO - Train epoch 17: [10/30 (33%)]	Loss: 1109.924 |	MSE loss: 0.017 |
+2025-03-26 00:14:32,504 - train - INFO - Train epoch 17: [20/30 (67%)]	Loss: 1062.534 |	MSE loss: 0.016 |
+2025-03-26 00:14:42,010 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:14:46,953 - train - INFO - Train epoch 18: [0/30 (0%)]	Loss: 898.974 |	MSE loss: 0.014 |
+2025-03-26 00:14:56,728 - train - INFO - Train epoch 18: [10/30 (33%)]	Loss: 1170.753 |	MSE loss: 0.018 |
+2025-03-26 00:15:06,465 - train - INFO - Train epoch 18: [20/30 (67%)]	Loss: 1060.139 |	MSE loss: 0.016 |
+2025-03-26 00:15:15,948 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:15:20,787 - train - INFO - Train epoch 19: [0/30 (0%)]	Loss: 839.016 |	MSE loss: 0.013 |
+2025-03-26 00:15:30,532 - train - INFO - Train epoch 19: [10/30 (33%)]	Loss: 1209.716 |	MSE loss: 0.019 |
+2025-03-26 00:15:40,276 - train - INFO - Train epoch 19: [20/30 (67%)]	Loss: 1108.074 |	MSE loss: 0.017 |
+2025-03-26 00:15:49,932 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:15:54,661 - train - INFO - Train epoch 20: [0/30 (0%)]	Loss: 789.499 |	MSE loss: 0.012 |
+2025-03-26 00:16:04,362 - train - INFO - Train epoch 20: [10/30 (33%)]	Loss: 1148.937 |	MSE loss: 0.018 |
+2025-03-26 00:16:14,099 - train - INFO - Train epoch 20: [20/30 (67%)]	Loss: 1105.309 |	MSE loss: 0.017 |
+2025-03-26 00:17:25,752 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:17:30,371 - train - INFO - Train epoch 21: [0/30 (0%)]	Loss: 764.684 |	MSE loss: 0.012 |
+2025-03-26 00:17:40,192 - train - INFO - Train epoch 21: [10/30 (33%)]	Loss: 1044.522 |	MSE loss: 0.016 |
+2025-03-26 00:17:50,645 - train - INFO - Train epoch 21: [20/30 (67%)]	Loss: 1055.005 |	MSE loss: 0.016 |
+2025-03-26 00:18:00,287 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:18:05,234 - train - INFO - Train epoch 22: [0/30 (0%)]	Loss: 743.285 |	MSE loss: 0.011 |
+2025-03-26 00:18:15,106 - train - INFO - Train epoch 22: [10/30 (33%)]	Loss: 904.372 |	MSE loss: 0.014 |
+2025-03-26 00:18:46,584 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:18:52,251 - train - INFO - Train epoch 0: [0/30 (0%)]	Loss: 281444640.000 |	MSE loss: 4328.253 |
+2025-03-26 00:19:09,314 - train - INFO - Train epoch 0: [10/30 (33%)]	Loss: 40227708.000 |	MSE loss: 618.650 |
+2025-03-26 00:19:26,484 - train - INFO - Train epoch 0: [20/30 (67%)]	Loss: 24600270.000 |	MSE loss: 378.320 |
+2025-03-26 00:21:32,659 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:21:38,920 - train - INFO - Train epoch 1: [0/30 (0%)]	Loss: 8925209.000 |	MSE loss: 137.258 |
+2025-03-26 00:21:50,116 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:21:55,845 - train - INFO - Train epoch 0: [0/30 (0%)]	Loss: 1014600960.000 |	MSE loss: 15603.244 |
+2025-03-26 00:22:13,019 - train - INFO - Train epoch 0: [10/30 (33%)]	Loss: 122193648.000 |	MSE loss: 1879.180 |
+2025-03-26 00:22:30,150 - train - INFO - Train epoch 0: [20/30 (67%)]	Loss: 46814748.000 |	MSE loss: 719.950 |
+2025-03-26 00:23:07,056 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:23:12,558 - train - INFO - Train epoch 1: [0/30 (0%)]	Loss: 53193008.000 |	MSE loss: 818.039 |
+2025-03-26 00:23:29,789 - train - INFO - Train epoch 1: [10/30 (33%)]	Loss: 36278476.000 |	MSE loss: 557.916 |
+2025-03-26 00:23:47,113 - train - INFO - Train epoch 1: [20/30 (67%)]	Loss: 19852958.000 |	MSE loss: 305.313 |
+2025-03-26 00:24:03,482 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:24:08,954 - train - INFO - Train epoch 2: [0/30 (0%)]	Loss: 27159200.000 |	MSE loss: 417.673 |
+2025-03-26 00:24:26,384 - train - INFO - Train epoch 2: [10/30 (33%)]	Loss: 20474442.000 |	MSE loss: 314.870 |
+2025-03-26 00:24:43,711 - train - INFO - Train epoch 2: [20/30 (67%)]	Loss: 12804562.000 |	MSE loss: 196.918 |
+2025-03-26 00:25:00,066 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:25:05,635 - train - INFO - Train epoch 3: [0/30 (0%)]	Loss: 18072964.000 |	MSE loss: 277.939 |
+2025-03-26 00:25:22,961 - train - INFO - Train epoch 3: [10/30 (33%)]	Loss: 13906506.000 |	MSE loss: 213.864 |
+2025-03-26 00:25:40,209 - train - INFO - Train epoch 3: [20/30 (67%)]	Loss: 9269962.000 |	MSE loss: 142.560 |
+2025-03-26 00:25:56,759 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:26:02,285 - train - INFO - Train epoch 4: [0/30 (0%)]	Loss: 13275461.000 |	MSE loss: 204.159 |
+2025-03-26 00:26:19,515 - train - INFO - Train epoch 4: [10/30 (33%)]	Loss: 10309320.000 |	MSE loss: 158.544 |
+2025-03-26 00:26:36,745 - train - INFO - Train epoch 4: [20/30 (67%)]	Loss: 7156667.000 |	MSE loss: 110.060 |
+2025-03-26 00:26:53,156 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:26:58,737 - train - INFO - Train epoch 5: [0/30 (0%)]	Loss: 10251474.000 |	MSE loss: 157.654 |
+2025-03-26 00:27:16,011 - train - INFO - Train epoch 5: [10/30 (33%)]	Loss: 8045733.500 |	MSE loss: 123.733 |
+2025-03-26 00:27:33,247 - train - INFO - Train epoch 5: [20/30 (67%)]	Loss: 5743509.500 |	MSE loss: 88.328 |
+2025-03-26 00:27:49,631 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:27:55,183 - train - INFO - Train epoch 6: [0/30 (0%)]	Loss: 8202586.500 |	MSE loss: 126.145 |
+2025-03-26 00:28:12,513 - train - INFO - Train epoch 6: [10/30 (33%)]	Loss: 6513516.500 |	MSE loss: 100.169 |
+2025-03-26 00:28:29,944 - train - INFO - Train epoch 6: [20/30 (67%)]	Loss: 4738960.500 |	MSE loss: 72.879 |
+2025-03-26 00:28:46,468 - train - INFO - Learning rate: 2e-05
+2025-03-26 00:28:52,100 - train - INFO - Train epoch 7: [0/30 (0%)]	Loss: 6750639.000 |	MSE loss: 103.816 |
+2025-03-26 00:29:09,482 - train - INFO - Train epoch 7: [10/30 (33%)]	Loss: 5414075.500 |	MSE loss: 83.261 |
+2025-03-26 00:29:49,430 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:29:54,934 - train - INFO - Train epoch 0: [0/30 (0%)]	Loss: 82751344.000 |	MSE loss: 1272.608 |
+2025-03-26 00:30:09,283 - train - INFO - Train epoch 0: [10/30 (33%)]	Loss: 2212589.250 |	MSE loss: 34.027 |
+2025-03-26 00:30:22,907 - train - INFO - Train epoch 0: [20/30 (67%)]	Loss: 1008920.125 |	MSE loss: 15.516 |
+2025-03-26 00:30:53,999 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:30:59,172 - train - INFO - Train epoch 1: [0/30 (0%)]	Loss: 478070.625 |	MSE loss: 7.352 |
+2025-03-26 00:31:12,841 - train - INFO - Train epoch 1: [10/30 (33%)]	Loss: 454335.469 |	MSE loss: 6.987 |
+2025-03-26 00:31:26,439 - train - INFO - Train epoch 1: [20/30 (67%)]	Loss: 258995.766 |	MSE loss: 3.983 |
+2025-03-26 00:31:40,159 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:31:45,738 - train - INFO - Train epoch 2: [0/30 (0%)]	Loss: 161497.266 |	MSE loss: 2.484 |
+2025-03-26 00:31:59,994 - train - INFO - Train epoch 2: [10/30 (33%)]	Loss: 226821.172 |	MSE loss: 3.488 |
+2025-03-26 00:32:13,881 - train - INFO - Train epoch 2: [20/30 (67%)]	Loss: 159926.922 |	MSE loss: 2.459 |
+2025-03-26 00:32:30,207 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:32:36,234 - train - INFO - Train epoch 0: [0/30 (0%)]	Loss: 1135023488.000 |	MSE loss: 17455.186 |
+2025-03-26 00:32:50,264 - train - INFO - Train epoch 0: [10/30 (33%)]	Loss: 1765543.000 |	MSE loss: 27.152 |
+2025-03-26 00:33:04,158 - train - INFO - Train epoch 0: [20/30 (67%)]	Loss: 1318444.750 |	MSE loss: 20.276 |
+2025-03-26 00:33:35,418 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:33:40,543 - train - INFO - Train epoch 1: [0/30 (0%)]	Loss: 658227.250 |	MSE loss: 10.123 |
+2025-03-26 00:33:54,555 - train - INFO - Train epoch 1: [10/30 (33%)]	Loss: 703563.812 |	MSE loss: 10.820 |
+2025-03-26 00:34:08,448 - train - INFO - Train epoch 1: [20/30 (67%)]	Loss: 784754.000 |	MSE loss: 12.068 |
+2025-03-26 00:34:39,627 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:34:44,843 - train - INFO - Train epoch 2: [0/30 (0%)]	Loss: 382586.094 |	MSE loss: 5.884 |
+2025-03-26 00:37:26,649 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:37:32,655 - train - INFO - Train epoch 0: [0/30 (0%)]	Loss: 12152444.000 |	MSE loss: 186.889 |
+2025-03-26 00:37:46,632 - train - INFO - Train epoch 0: [10/30 (33%)]	Loss: 110414.258 |	MSE loss: 1.698 |
+2025-03-26 00:38:00,340 - train - INFO - Train epoch 0: [20/30 (67%)]	Loss: 72083.242 |	MSE loss: 1.109 |
+2025-03-26 00:38:31,897 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:38:37,519 - train - INFO - Train epoch 1: [0/30 (0%)]	Loss: 61753.016 |	MSE loss: 0.950 |
+2025-03-26 00:39:00,556 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:39:05,969 - train - INFO - Train epoch 0: [0/30 (0%)]	Loss: 16090759.000 |	MSE loss: 247.455 |
+2025-03-26 00:39:19,784 - train - INFO - Train epoch 0: [10/30 (33%)]	Loss: 236563.031 |	MSE loss: 3.638 |
+2025-03-26 00:39:34,615 - train - INFO - Train epoch 0: [20/30 (67%)]	Loss: 149637.547 |	MSE loss: 2.301 |
+2025-03-26 00:40:06,107 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:40:11,466 - train - INFO - Train epoch 1: [0/30 (0%)]	Loss: 108261.336 |	MSE loss: 1.665 |
+2025-03-26 00:40:25,287 - train - INFO - Train epoch 1: [10/30 (33%)]	Loss: 93718.320 |	MSE loss: 1.441 |
+2025-03-26 00:40:39,412 - train - INFO - Train epoch 1: [20/30 (67%)]	Loss: 88828.625 |	MSE loss: 1.366 |
+2025-03-26 00:41:52,450 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:41:56,895 - train - INFO - Train epoch 0: [0/30 (0%)]	Loss: 1019019578572800.000 |	MSE loss: 15671196672.000 |
+2025-03-26 00:41:57,852 - train - INFO - Train epoch 0: [10/30 (33%)]	Loss: 1875193626624.000 |	MSE loss: 28838042.000 |
+2025-03-26 00:41:58,754 - train - INFO - Train epoch 0: [20/30 (67%)]	Loss: 93146775552.000 |	MSE loss: 1432476.375 |
+2025-03-26 00:42:18,949 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:42:23,005 - train - INFO - Train epoch 1: [0/30 (0%)]	Loss: 68802207744.000 |	MSE loss: 1058088.500 |
+2025-03-26 00:42:23,890 - train - INFO - Train epoch 1: [10/30 (33%)]	Loss: 40312532992.000 |	MSE loss: 619954.375 |
+2025-03-26 00:42:24,786 - train - INFO - Train epoch 1: [20/30 (67%)]	Loss: 51347431424.000 |	MSE loss: 789656.750 |
+2025-03-26 00:42:26,387 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:42:30,491 - train - INFO - Train epoch 2: [0/30 (0%)]	Loss: 51410796544.000 |	MSE loss: 790631.250 |
+2025-03-26 00:42:31,461 - train - INFO - Train epoch 2: [10/30 (33%)]	Loss: 34588753920.000 |	MSE loss: 531930.062 |
+2025-03-26 00:42:32,388 - train - INFO - Train epoch 2: [20/30 (67%)]	Loss: 46976741376.000 |	MSE loss: 722441.250 |
+2025-03-26 00:42:34,071 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:42:38,023 - train - INFO - Train epoch 3: [0/30 (0%)]	Loss: 48171773952.000 |	MSE loss: 740819.312 |
+2025-03-26 00:44:11,015 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:44:15,381 - train - INFO - Train epoch 0: [0/30 (0%)]	Loss: 26365778.000 |	MSE loss: 405.471 |
+2025-03-26 00:44:17,085 - train - INFO - Train epoch 0: [10/30 (33%)]	Loss: 182083.953 |	MSE loss: 2.800 |
+2025-03-26 00:44:18,012 - train - INFO - Train epoch 0: [20/30 (67%)]	Loss: 182362.406 |	MSE loss: 2.804 |
+2025-03-26 00:44:38,459 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:44:42,617 - train - INFO - Train epoch 1: [0/30 (0%)]	Loss: 151038.906 |	MSE loss: 2.323 |
+2025-03-26 00:44:44,203 - train - INFO - Train epoch 1: [10/30 (33%)]	Loss: 79701.047 |	MSE loss: 1.226 |
+2025-03-26 00:44:45,100 - train - INFO - Train epoch 1: [20/30 (67%)]	Loss: 110408.000 |	MSE loss: 1.698 |
+2025-03-26 00:44:46,877 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:44:51,214 - train - INFO - Train epoch 2: [0/30 (0%)]	Loss: 103668.617 |	MSE loss: 1.594 |
+2025-03-26 00:44:52,677 - train - INFO - Train epoch 2: [10/30 (33%)]	Loss: 64167.926 |	MSE loss: 0.987 |
+2025-03-26 00:44:53,586 - train - INFO - Train epoch 2: [20/30 (67%)]	Loss: 90649.594 |	MSE loss: 1.394 |
+2025-03-26 00:44:55,141 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:47:46,916 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:47:51,183 - train - INFO - Train epoch 0: [0/30 (0%)]	Loss: 2703936000.000 |	MSE loss: 41583.023 |
+2025-03-26 00:47:53,550 - train - INFO - Train epoch 0: [10/30 (33%)]	Loss: 16285236.000 |	MSE loss: 250.446 |
+2025-03-26 00:47:54,670 - train - INFO - Train epoch 0: [20/30 (67%)]	Loss: 7605187.500 |	MSE loss: 116.958 |
+2025-03-26 00:48:15,778 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:48:20,076 - train - INFO - Train epoch 1: [0/30 (0%)]	Loss: 5178772.000 |	MSE loss: 79.643 |
+2025-03-26 00:48:21,599 - train - INFO - Train epoch 1: [10/30 (33%)]	Loss: 3371205.250 |	MSE loss: 51.845 |
+2025-03-26 00:48:22,523 - train - INFO - Train epoch 1: [20/30 (67%)]	Loss: 3168986.500 |	MSE loss: 48.735 |
+2025-03-26 00:48:24,159 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:49:50,130 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:49:54,396 - train - INFO - Train epoch 0: [0/30 (0%)]	Loss: 4363732992.000 |	MSE loss: 67108.539 |
+2025-03-26 00:49:55,831 - train - INFO - Train epoch 0: [10/30 (33%)]	Loss: 12807146.000 |	MSE loss: 196.957 |
+2025-03-26 00:49:56,737 - train - INFO - Train epoch 0: [20/30 (67%)]	Loss: 31743648.000 |	MSE loss: 488.176 |
+2025-03-26 00:50:17,569 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:50:21,908 - train - INFO - Train epoch 1: [0/30 (0%)]	Loss: 26018170.000 |	MSE loss: 400.126 |
+2025-03-26 00:50:23,665 - train - INFO - Train epoch 1: [10/30 (33%)]	Loss: 3001950.250 |	MSE loss: 46.166 |
+2025-03-26 00:50:24,562 - train - INFO - Train epoch 1: [20/30 (67%)]	Loss: 7685845.500 |	MSE loss: 118.198 |
+2025-03-26 00:50:26,144 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:50:30,357 - train - INFO - Train epoch 2: [0/30 (0%)]	Loss: 8529023.000 |	MSE loss: 131.165 |
+2025-03-26 00:50:31,963 - train - INFO - Train epoch 2: [10/30 (33%)]	Loss: 1804072.750 |	MSE loss: 27.744 |
+2025-03-26 00:50:32,884 - train - INFO - Train epoch 2: [20/30 (67%)]	Loss: 4287291.000 |	MSE loss: 65.933 |
+2025-03-26 00:50:34,509 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:50:38,836 - train - INFO - Train epoch 3: [0/30 (0%)]	Loss: 4882822.500 |	MSE loss: 75.091 |
+2025-03-26 00:50:40,477 - train - INFO - Train epoch 3: [10/30 (33%)]	Loss: 1364741.000 |	MSE loss: 20.988 |
+2025-03-26 00:50:54,726 - train - INFO - Learning rate: 0.0001
+2025-03-26 00:50:59,034 - train - INFO - Train epoch 1: [0/30 (0%)]	Loss: 26018170.000 |	MSE loss: 400.126 |
+2025-03-26 00:51:00,512 - train - INFO - Train epoch 1: [10/30 (33%)]	Loss: 3001950.250 |	MSE loss: 46.166 |
+2025-03-26 00:51:01,434 - train - INFO - Train epoch 1: [20/30 (67%)]	Loss: 7685845.500 |	MSE loss: 118.198 |

@@ -1,0 +1,340 @@
+2025-03-31 18:29:13,266 - val - INFO - Test epoch 0: Average losses:	Loss: 5540729.036 |	MSE loss: 85.209 |	PSNR: 5.958989 |	PSNR_ori: 5.625559 |
+2025-03-31 18:29:13,272 - val - INFO - best checkpoint saved.
+2025-03-31 18:31:29,661 - val - INFO - Test epoch 5: Average losses:	Loss: 1014759.107 |	MSE loss: 15.606 |	PSNR: 6.342467 |	PSNR_ori: 6.291451 |
+2025-03-31 18:31:29,672 - val - INFO - best checkpoint saved.
+2025-03-31 18:33:47,304 - val - INFO - Test epoch 10: Average losses:	Loss: 471289.067 |	MSE loss: 7.248 |	PSNR: 6.619981 |	PSNR_ori: 6.513603 |
+2025-03-31 18:33:47,314 - val - INFO - best checkpoint saved.
+2025-03-31 18:36:02,167 - val - INFO - Test epoch 15: Average losses:	Loss: 297111.453 |	MSE loss: 4.569 |	PSNR: 6.854018 |	PSNR_ori: 6.902816 |
+2025-03-31 18:36:02,174 - val - INFO - best checkpoint saved.
+2025-03-31 18:38:23,573 - val - INFO - Test epoch 20: Average losses:	Loss: 211324.007 |	MSE loss: 3.250 |	PSNR: 7.038041 |	PSNR_ori: 7.398122 |
+2025-03-31 18:38:23,583 - val - INFO - best checkpoint saved.
+2025-03-31 18:40:43,968 - val - INFO - Test epoch 25: Average losses:	Loss: 159107.416 |	MSE loss: 2.447 |	PSNR: 7.170229 |	PSNR_ori: 7.877591 |
+2025-03-31 18:40:43,979 - val - INFO - best checkpoint saved.
+2025-03-31 18:43:05,612 - val - INFO - Test epoch 30: Average losses:	Loss: 124266.754 |	MSE loss: 1.911 |	PSNR: 7.260055 |	PSNR_ori: 8.311523 |
+2025-03-31 18:43:05,619 - val - INFO - best checkpoint saved.
+2025-03-31 18:45:23,745 - val - INFO - Test epoch 35: Average losses:	Loss: 100499.948 |	MSE loss: 1.546 |	PSNR: 7.327061 |	PSNR_ori: 8.695475 |
+2025-03-31 18:45:23,753 - val - INFO - best checkpoint saved.
+2025-03-31 18:47:41,044 - val - INFO - Test epoch 40: Average losses:	Loss: 82990.804 |	MSE loss: 1.276 |	PSNR: 7.391417 |	PSNR_ori: 9.054188 |
+2025-03-31 18:47:41,053 - val - INFO - best checkpoint saved.
+2025-03-31 18:49:59,988 - val - INFO - Test epoch 45: Average losses:	Loss: 69459.257 |	MSE loss: 1.068 |	PSNR: 7.462852 |	PSNR_ori: 9.401003 |
+2025-03-31 18:49:59,998 - val - INFO - best checkpoint saved.
+2025-03-31 18:52:20,558 - val - INFO - Test epoch 50: Average losses:	Loss: 58661.765 |	MSE loss: 0.902 |	PSNR: 7.544519 |	PSNR_ori: 9.747551 |
+2025-03-31 18:52:20,565 - val - INFO - best checkpoint saved.
+2025-03-31 18:54:38,000 - val - INFO - Test epoch 55: Average losses:	Loss: 50015.334 |	MSE loss: 0.769 |	PSNR: 7.627433 |	PSNR_ori: 10.085623 |
+2025-03-31 18:54:38,007 - val - INFO - best checkpoint saved.
+2025-03-31 18:56:15,589 - val - INFO - Test epoch 0: Average losses:	Loss: 16437604.286 |	MSE loss: 252.789 |	PSNR: 4.826747 |	PSNR_ori: 4.840782 |
+2025-03-31 18:56:15,595 - val - INFO - best checkpoint saved.
+2025-03-31 18:56:56,066 - val - INFO - Test epoch 5: Average losses:	Loss: 2360995.571 |	MSE loss: 36.309 |	PSNR: 6.120240 |	PSNR_ori: 8.498257 |
+2025-03-31 18:56:56,072 - val - INFO - best checkpoint saved.
+2025-03-31 18:57:35,541 - val - INFO - Test epoch 10: Average losses:	Loss: 1135575.250 |	MSE loss: 17.464 |	PSNR: 6.009674 |	PSNR_ori: 9.030818 |
+2025-03-31 18:57:35,547 - val - INFO - best checkpoint saved.
+2025-03-31 18:58:17,179 - val - INFO - Test epoch 15: Average losses:	Loss: 677924.299 |	MSE loss: 10.426 |	PSNR: 6.080126 |	PSNR_ori: 9.202984 |
+2025-03-31 18:58:17,183 - val - INFO - best checkpoint saved.
+2025-03-31 18:58:58,364 - val - INFO - Test epoch 20: Average losses:	Loss: 454086.346 |	MSE loss: 6.983 |	PSNR: 6.195946 |	PSNR_ori: 9.333931 |
+2025-03-31 18:58:58,427 - val - INFO - best checkpoint saved.
+2025-03-31 19:30:59,083 - val - INFO - Test epoch 0: Average losses:	Loss: 11561789.036 |	MSE loss: 177.805 |	PSNR: 6.207929 |	PSNR_ori: 5.902574 |
+2025-03-31 19:30:59,091 - val - INFO - best checkpoint saved.
+2025-03-31 19:32:42,096 - val - INFO - Test epoch 5: Average losses:	Loss: 4247571.518 |	MSE loss: 65.322 |	PSNR: 6.338799 |	PSNR_ori: 5.736940 |
+2025-03-31 19:32:42,104 - val - INFO - best checkpoint saved.
+2025-03-31 19:34:23,086 - val - INFO - Test epoch 10: Average losses:	Loss: 2374522.049 |	MSE loss: 36.517 |	PSNR: 6.715363 |	PSNR_ori: 6.088111 |
+2025-03-31 19:34:23,098 - val - INFO - best checkpoint saved.
+2025-03-31 19:36:03,259 - val - INFO - Test epoch 15: Average losses:	Loss: 1549990.453 |	MSE loss: 23.837 |	PSNR: 7.022907 |	PSNR_ori: 6.419252 |
+2025-03-31 19:36:03,265 - val - INFO - best checkpoint saved.
+2025-03-31 19:37:44,817 - val - INFO - Test epoch 20: Average losses:	Loss: 1096515.625 |	MSE loss: 16.863 |	PSNR: 7.281675 |	PSNR_ori: 6.711117 |
+2025-03-31 19:37:44,823 - val - INFO - best checkpoint saved.
+2025-03-31 19:39:22,913 - val - INFO - Test epoch 25: Average losses:	Loss: 826809.963 |	MSE loss: 12.715 |	PSNR: 7.480491 |	PSNR_ori: 6.881106 |
+2025-03-31 19:39:22,919 - val - INFO - best checkpoint saved.
+2025-03-31 19:41:12,534 - val - INFO - Test epoch 30: Average losses:	Loss: 642577.781 |	MSE loss: 9.882 |	PSNR: 7.662098 |	PSNR_ori: 7.098159 |
+2025-03-31 19:41:12,540 - val - INFO - best checkpoint saved.
+2025-03-31 19:46:59,686 - val - INFO - Test epoch 0: Average losses:	Loss: 202253038.857 |	MSE loss: 3110.389 |	PSNR: -34.352700 |	PSNR_ori: 4.957209 |
+2025-03-31 19:46:59,693 - val - INFO - best checkpoint saved.
+2025-03-31 19:50:00,392 - val - INFO - Test epoch 0: Average losses:	Loss: 63737186.286 |	MSE loss: 980.195 |	PSNR: 3.195913 |	PSNR_ori: 5.063424 |
+2025-03-31 19:50:00,398 - val - INFO - best checkpoint saved.
+2025-03-31 19:51:42,455 - val - INFO - Test epoch 5: Average losses:	Loss: 14288526.357 |	MSE loss: 219.739 |	PSNR: 3.340567 |	PSNR_ori: 5.267773 |
+2025-03-31 19:51:42,461 - val - INFO - best checkpoint saved.
+2025-03-31 19:53:22,884 - val - INFO - Test epoch 10: Average losses:	Loss: 7192131.893 |	MSE loss: 110.606 |	PSNR: 3.473804 |	PSNR_ori: 5.591375 |
+2025-03-31 19:53:22,895 - val - INFO - best checkpoint saved.
+2025-03-31 19:54:52,773 - val - INFO - Test epoch 0: Average losses:	Loss: 41035315.429 |	MSE loss: 631.070 |	PSNR: 5.872171 |	PSNR_ori: 5.536526 |
+2025-03-31 19:54:52,779 - val - INFO - best checkpoint saved.
+2025-03-31 19:56:36,051 - val - INFO - Test epoch 5: Average losses:	Loss: 7459495.500 |	MSE loss: 114.717 |	PSNR: 6.248535 |	PSNR_ori: 5.841756 |
+2025-03-31 19:56:36,059 - val - INFO - best checkpoint saved.
+2025-03-31 19:58:18,508 - val - INFO - Test epoch 10: Average losses:	Loss: 3906772.321 |	MSE loss: 60.081 |	PSNR: 6.412054 |	PSNR_ori: 6.010992 |
+2025-03-31 19:58:18,514 - val - INFO - best checkpoint saved.
+2025-03-31 20:00:01,328 - val - INFO - Test epoch 15: Average losses:	Loss: 2490172.902 |	MSE loss: 38.296 |	PSNR: 6.509796 |	PSNR_ori: 6.144052 |
+2025-03-31 20:00:01,339 - val - INFO - best checkpoint saved.
+2025-03-31 20:01:42,569 - val - INFO - Test epoch 20: Average losses:	Loss: 1749156.143 |	MSE loss: 26.900 |	PSNR: 6.605495 |	PSNR_ori: 6.289407 |
+2025-03-31 20:01:42,576 - val - INFO - best checkpoint saved.
+2025-03-31 20:03:24,739 - val - INFO - Test epoch 25: Average losses:	Loss: 1305931.098 |	MSE loss: 20.084 |	PSNR: 6.690955 |	PSNR_ori: 6.435979 |
+2025-03-31 20:03:24,745 - val - INFO - best checkpoint saved.
+2025-03-31 20:05:06,639 - val - INFO - Test epoch 30: Average losses:	Loss: 1015888.871 |	MSE loss: 15.623 |	PSNR: 6.763597 |	PSNR_ori: 6.574766 |
+2025-03-31 20:05:06,645 - val - INFO - best checkpoint saved.
+2025-03-31 20:06:51,783 - val - INFO - Test epoch 35: Average losses:	Loss: 813723.018 |	MSE loss: 12.514 |	PSNR: 6.821521 |	PSNR_ori: 6.698212 |
+2025-03-31 20:06:51,794 - val - INFO - best checkpoint saved.
+2025-03-31 20:08:33,427 - val - INFO - Test epoch 40: Average losses:	Loss: 666992.786 |	MSE loss: 10.257 |	PSNR: 6.877797 |	PSNR_ori: 6.821285 |
+2025-03-31 20:08:33,435 - val - INFO - best checkpoint saved.
+2025-03-31 20:10:15,348 - val - INFO - Test epoch 45: Average losses:	Loss: 555978.261 |	MSE loss: 8.550 |	PSNR: 6.937514 |	PSNR_ori: 6.942220 |
+2025-03-31 20:10:15,357 - val - INFO - best checkpoint saved.
+2025-03-31 20:11:58,848 - val - INFO - Test epoch 50: Average losses:	Loss: 470302.373 |	MSE loss: 7.233 |	PSNR: 6.995473 |	PSNR_ori: 7.058428 |
+2025-03-31 20:11:58,854 - val - INFO - best checkpoint saved.
+2025-03-31 20:13:42,280 - val - INFO - Test epoch 55: Average losses:	Loss: 402260.137 |	MSE loss: 6.186 |	PSNR: 7.056477 |	PSNR_ori: 7.177591 |
+2025-03-31 20:13:42,288 - val - INFO - best checkpoint saved.
+2025-03-31 20:15:26,226 - val - INFO - Test epoch 60: Average losses:	Loss: 347427.529 |	MSE loss: 5.343 |	PSNR: 7.106097 |	PSNR_ori: 7.294823 |
+2025-03-31 20:15:26,234 - val - INFO - best checkpoint saved.
+2025-03-31 20:34:48,091 - val - INFO - Test epoch 0: Average losses:	Loss: 12523933.800 |	MSE loss: 192.602 |	PSNR: 5.306852 |	PSNR_ori: 6.061437 |
+2025-03-31 20:34:48,100 - val - INFO - best checkpoint saved.
+2025-03-31 20:35:08,389 - val - INFO - Test epoch 5: Average losses:	Loss: 1781151.275 |	MSE loss: 27.392 |	PSNR: 5.903398 |	PSNR_ori: 5.927172 |
+2025-03-31 20:35:08,397 - val - INFO - best checkpoint saved.
+2025-03-31 20:35:28,749 - val - INFO - Test epoch 10: Average losses:	Loss: 872845.162 |	MSE loss: 13.423 |	PSNR: 6.147649 |	PSNR_ori: 6.280176 |
+2025-03-31 20:35:28,756 - val - INFO - best checkpoint saved.
+2025-03-31 20:35:49,207 - val - INFO - Test epoch 15: Average losses:	Loss: 539166.791 |	MSE loss: 8.292 |	PSNR: 6.334823 |	PSNR_ori: 6.556644 |
+2025-03-31 20:35:49,215 - val - INFO - best checkpoint saved.
+2025-03-31 20:36:09,795 - val - INFO - Test epoch 20: Average losses:	Loss: 373018.984 |	MSE loss: 5.737 |	PSNR: 6.486086 |	PSNR_ori: 6.816074 |
+2025-03-31 20:36:09,801 - val - INFO - best checkpoint saved.
+2025-03-31 20:36:30,320 - val - INFO - Test epoch 25: Average losses:	Loss: 276102.677 |	MSE loss: 4.246 |	PSNR: 6.622214 |	PSNR_ori: 7.054503 |
+2025-03-31 20:36:30,327 - val - INFO - best checkpoint saved.
+2025-03-31 20:36:50,852 - val - INFO - Test epoch 30: Average losses:	Loss: 214679.391 |	MSE loss: 3.301 |	PSNR: 6.742158 |	PSNR_ori: 7.278914 |
+2025-03-31 20:36:50,858 - val - INFO - best checkpoint saved.
+2025-03-31 20:37:11,247 - val - INFO - Test epoch 35: Average losses:	Loss: 172793.092 |	MSE loss: 2.657 |	PSNR: 6.851241 |	PSNR_ori: 7.495955 |
+2025-03-31 20:37:11,253 - val - INFO - best checkpoint saved.
+2025-03-31 20:37:31,730 - val - INFO - Test epoch 40: Average losses:	Loss: 142687.575 |	MSE loss: 2.194 |	PSNR: 6.956197 |	PSNR_ori: 7.699769 |
+2025-03-31 20:37:31,737 - val - INFO - best checkpoint saved.
+2025-03-31 20:37:52,143 - val - INFO - Test epoch 45: Average losses:	Loss: 120123.581 |	MSE loss: 1.847 |	PSNR: 7.052585 |	PSNR_ori: 7.893352 |
+2025-03-31 20:37:52,149 - val - INFO - best checkpoint saved.
+2025-03-31 20:38:12,600 - val - INFO - Test epoch 50: Average losses:	Loss: 102553.652 |	MSE loss: 1.577 |	PSNR: 7.143519 |	PSNR_ori: 8.079371 |
+2025-03-31 20:38:12,607 - val - INFO - best checkpoint saved.
+2025-03-31 20:38:33,087 - val - INFO - Test epoch 55: Average losses:	Loss: 88571.582 |	MSE loss: 1.362 |	PSNR: 7.232175 |	PSNR_ori: 8.260226 |
+2025-03-31 20:38:33,093 - val - INFO - best checkpoint saved.
+2025-03-31 20:38:53,494 - val - INFO - Test epoch 60: Average losses:	Loss: 77250.560 |	MSE loss: 1.188 |	PSNR: 7.316467 |	PSNR_ori: 8.437438 |
+2025-03-31 20:38:53,500 - val - INFO - best checkpoint saved.
+2025-03-31 20:39:13,948 - val - INFO - Test epoch 65: Average losses:	Loss: 67891.070 |	MSE loss: 1.044 |	PSNR: 7.398499 |	PSNR_ori: 8.609865 |
+2025-03-31 20:39:13,954 - val - INFO - best checkpoint saved.
+2025-03-31 20:39:34,284 - val - INFO - Test epoch 70: Average losses:	Loss: 60131.452 |	MSE loss: 0.925 |	PSNR: 7.480590 |	PSNR_ori: 8.780969 |
+2025-03-31 20:39:34,291 - val - INFO - best checkpoint saved.
+2025-03-31 20:39:54,637 - val - INFO - Test epoch 75: Average losses:	Loss: 53581.108 |	MSE loss: 0.824 |	PSNR: 7.553058 |	PSNR_ori: 8.950329 |
+2025-03-31 20:39:54,643 - val - INFO - best checkpoint saved.
+2025-03-31 20:40:36,951 - val - INFO - Test epoch 0: Average losses:	Loss: 854.942 |	MSE loss: 854.942 |	PSNR: 5.568087 |	PSNR_ori: 4.517412 |
+2025-03-31 20:40:36,959 - val - INFO - best checkpoint saved.
+2025-03-31 20:41:14,072 - val - INFO - Test epoch 0: Average losses:	Loss: 16581.927 |	MSE loss: 16581.927 |	PSNR: 5.124165 |	PSNR_ori: 5.824574 |
+2025-03-31 20:41:14,078 - val - INFO - best checkpoint saved.
+2025-03-31 20:41:34,517 - val - INFO - Test epoch 5: Average losses:	Loss: 4355.511 |	MSE loss: 4355.511 |	PSNR: 5.168825 |	PSNR_ori: 6.878711 |
+2025-03-31 20:41:34,523 - val - INFO - best checkpoint saved.
+2025-03-31 20:41:54,970 - val - INFO - Test epoch 10: Average losses:	Loss: 2706.835 |	MSE loss: 2706.835 |	PSNR: 5.188583 |	PSNR_ori: 6.509966 |
+2025-03-31 20:41:54,976 - val - INFO - best checkpoint saved.
+2025-03-31 20:42:15,479 - val - INFO - Test epoch 15: Average losses:	Loss: 1860.882 |	MSE loss: 1860.882 |	PSNR: 5.206831 |	PSNR_ori: 6.248674 |
+2025-03-31 20:42:15,486 - val - INFO - best checkpoint saved.
+2025-03-31 20:42:35,991 - val - INFO - Test epoch 20: Average losses:	Loss: 1367.491 |	MSE loss: 1367.491 |	PSNR: 5.221921 |	PSNR_ori: 6.074987 |
+2025-03-31 20:42:35,998 - val - INFO - best checkpoint saved.
+2025-03-31 20:42:56,460 - val - INFO - Test epoch 25: Average losses:	Loss: 1053.592 |	MSE loss: 1053.592 |	PSNR: 5.233705 |	PSNR_ori: 5.955085 |
+2025-03-31 20:42:56,466 - val - INFO - best checkpoint saved.
+2025-03-31 20:44:49,282 - val - INFO - Test epoch 0: Average losses:	Loss: 0.010 |	MSE loss: 0.010 |	PSNR: 9.899504 |	PSNR_ori: 20.609056 |
+2025-03-31 20:44:49,301 - val - INFO - best checkpoint saved.
+2025-03-31 20:49:16,434 - val - INFO - Test epoch 0: Average losses:	Loss: 22393.523 |	MSE loss: 0.344 |	PSNR: 6.800368 |	PSNR_ori: 10.900001 |
+2025-03-31 20:49:16,443 - val - INFO - best checkpoint saved.
+2025-03-31 20:49:44,035 - val - INFO - Test epoch 0: Average losses:	Loss: 11094.966 |	MSE loss: 0.171 |	PSNR: 8.054551 |	PSNR_ori: 13.167406 |
+2025-03-31 20:49:44,042 - val - INFO - best checkpoint saved.
+2025-03-31 20:50:18,818 - val - INFO - Test epoch 5: Average losses:	Loss: 2428.311 |	MSE loss: 0.037 |	PSNR: 9.789214 |	PSNR_ori: 16.618787 |
+2025-03-31 20:50:18,828 - val - INFO - best checkpoint saved.
+2025-03-31 20:50:53,660 - val - INFO - Test epoch 10: Average losses:	Loss: 1410.334 |	MSE loss: 0.022 |	PSNR: 10.035915 |	PSNR_ori: 18.468343 |
+2025-03-31 20:50:53,668 - val - INFO - best checkpoint saved.
+2025-03-31 20:51:28,541 - val - INFO - Test epoch 15: Average losses:	Loss: 994.212 |	MSE loss: 0.015 |	PSNR: 10.135294 |	PSNR_ori: 19.715370 |
+2025-03-31 20:51:28,549 - val - INFO - best checkpoint saved.
+2025-03-31 20:52:03,395 - val - INFO - Test epoch 20: Average losses:	Loss: 760.300 |	MSE loss: 0.012 |	PSNR: 10.182507 |	PSNR_ori: 20.708044 |
+2025-03-31 20:52:03,403 - val - INFO - best checkpoint saved.
+2025-03-31 20:52:38,212 - val - INFO - Test epoch 25: Average losses:	Loss: 611.918 |	MSE loss: 0.009 |	PSNR: 10.207382 |	PSNR_ori: 21.542939 |
+2025-03-31 20:52:38,222 - val - INFO - best checkpoint saved.
+2025-03-31 20:53:13,132 - val - INFO - Test epoch 30: Average losses:	Loss: 509.305 |	MSE loss: 0.008 |	PSNR: 10.227193 |	PSNR_ori: 22.259475 |
+2025-03-31 20:53:13,140 - val - INFO - best checkpoint saved.
+2025-03-31 20:53:47,990 - val - INFO - Test epoch 35: Average losses:	Loss: 434.396 |	MSE loss: 0.007 |	PSNR: 10.240636 |	PSNR_ori: 22.889788 |
+2025-03-31 20:53:48,000 - val - INFO - best checkpoint saved.
+2025-03-31 20:54:22,838 - val - INFO - Test epoch 40: Average losses:	Loss: 377.413 |	MSE loss: 0.006 |	PSNR: 10.246405 |	PSNR_ori: 23.453486 |
+2025-03-31 20:54:22,845 - val - INFO - best checkpoint saved.
+2025-03-31 20:54:57,720 - val - INFO - Test epoch 45: Average losses:	Loss: 331.920 |	MSE loss: 0.005 |	PSNR: 10.244170 |	PSNR_ori: 23.973878 |
+2025-03-31 20:54:57,731 - val - INFO - best checkpoint saved.
+2025-03-31 20:55:32,628 - val - INFO - Test epoch 50: Average losses:	Loss: 295.402 |	MSE loss: 0.005 |	PSNR: 10.239017 |	PSNR_ori: 24.447164 |
+2025-03-31 20:55:32,637 - val - INFO - best checkpoint saved.
+2025-03-31 20:56:07,474 - val - INFO - Test epoch 55: Average losses:	Loss: 265.673 |	MSE loss: 0.004 |	PSNR: 10.234292 |	PSNR_ori: 24.870080 |
+2025-03-31 20:56:07,481 - val - INFO - best checkpoint saved.
+2025-03-31 20:56:42,282 - val - INFO - Test epoch 60: Average losses:	Loss: 241.425 |	MSE loss: 0.004 |	PSNR: 10.231938 |	PSNR_ori: 25.246198 |
+2025-03-31 20:56:42,289 - val - INFO - best checkpoint saved.
+2025-03-31 20:57:17,106 - val - INFO - Test epoch 65: Average losses:	Loss: 220.912 |	MSE loss: 0.003 |	PSNR: 10.229723 |	PSNR_ori: 25.591382 |
+2025-03-31 20:57:17,114 - val - INFO - best checkpoint saved.
+2025-03-31 20:57:51,918 - val - INFO - Test epoch 70: Average losses:	Loss: 203.482 |	MSE loss: 0.003 |	PSNR: 10.227780 |	PSNR_ori: 25.907536 |
+2025-03-31 20:57:51,928 - val - INFO - best checkpoint saved.
+2025-03-31 20:58:26,797 - val - INFO - Test epoch 75: Average losses:	Loss: 188.405 |	MSE loss: 0.003 |	PSNR: 10.226223 |	PSNR_ori: 26.200554 |
+2025-03-31 20:58:26,804 - val - INFO - best checkpoint saved.
+2025-03-31 20:59:01,716 - val - INFO - Test epoch 80: Average losses:	Loss: 175.196 |	MSE loss: 0.003 |	PSNR: 10.224108 |	PSNR_ori: 26.475579 |
+2025-03-31 20:59:01,727 - val - INFO - best checkpoint saved.
+2025-03-31 20:59:36,561 - val - INFO - Test epoch 85: Average losses:	Loss: 163.479 |	MSE loss: 0.003 |	PSNR: 10.222840 |	PSNR_ori: 26.736449 |
+2025-03-31 20:59:36,569 - val - INFO - best checkpoint saved.
+2025-03-31 21:00:11,409 - val - INFO - Test epoch 90: Average losses:	Loss: 153.027 |	MSE loss: 0.002 |	PSNR: 10.222999 |	PSNR_ori: 26.980674 |
+2025-03-31 21:00:11,419 - val - INFO - best checkpoint saved.
+2025-03-31 21:00:46,269 - val - INFO - Test epoch 95: Average losses:	Loss: 143.713 |	MSE loss: 0.002 |	PSNR: 10.222800 |	PSNR_ori: 27.215406 |
+2025-03-31 21:00:46,276 - val - INFO - best checkpoint saved.
+2025-03-31 21:01:21,137 - val - INFO - Test epoch 100: Average losses:	Loss: 135.308 |	MSE loss: 0.002 |	PSNR: 10.222806 |	PSNR_ori: 27.439137 |
+2025-03-31 21:01:21,144 - val - INFO - best checkpoint saved.
+2025-03-31 21:01:55,985 - val - INFO - Test epoch 105: Average losses:	Loss: 127.624 |	MSE loss: 0.002 |	PSNR: 10.225018 |	PSNR_ori: 27.652776 |
+2025-03-31 21:01:55,992 - val - INFO - best checkpoint saved.
+2025-03-31 21:02:30,824 - val - INFO - Test epoch 110: Average losses:	Loss: 120.728 |	MSE loss: 0.002 |	PSNR: 10.224896 |	PSNR_ori: 27.860525 |
+2025-03-31 21:02:30,832 - val - INFO - best checkpoint saved.
+2025-03-31 21:03:05,695 - val - INFO - Test epoch 115: Average losses:	Loss: 114.398 |	MSE loss: 0.002 |	PSNR: 10.224595 |	PSNR_ori: 28.061625 |
+2025-03-31 21:03:05,702 - val - INFO - best checkpoint saved.
+2025-03-31 21:03:40,635 - val - INFO - Test epoch 120: Average losses:	Loss: 108.628 |	MSE loss: 0.002 |	PSNR: 10.222537 |	PSNR_ori: 28.258729 |
+2025-03-31 21:03:40,643 - val - INFO - best checkpoint saved.
+2025-03-31 21:04:15,453 - val - INFO - Test epoch 125: Average losses:	Loss: 103.316 |	MSE loss: 0.002 |	PSNR: 10.223343 |	PSNR_ori: 28.445519 |
+2025-03-31 21:04:15,460 - val - INFO - best checkpoint saved.
+2025-03-31 21:04:50,339 - val - INFO - Test epoch 130: Average losses:	Loss: 98.372 |	MSE loss: 0.002 |	PSNR: 10.222762 |	PSNR_ori: 28.630098 |
+2025-03-31 21:04:50,346 - val - INFO - best checkpoint saved.
+2025-03-31 21:05:25,184 - val - INFO - Test epoch 135: Average losses:	Loss: 93.793 |	MSE loss: 0.001 |	PSNR: 10.222552 |	PSNR_ori: 28.812282 |
+2025-03-31 21:05:25,191 - val - INFO - best checkpoint saved.
+2025-03-31 21:06:00,039 - val - INFO - Test epoch 140: Average losses:	Loss: 89.454 |	MSE loss: 0.001 |	PSNR: 10.223316 |	PSNR_ori: 28.991942 |
+2025-03-31 21:06:00,046 - val - INFO - best checkpoint saved.
+2025-03-31 21:06:34,926 - val - INFO - Test epoch 145: Average losses:	Loss: 85.429 |	MSE loss: 0.001 |	PSNR: 10.223302 |	PSNR_ori: 29.168187 |
+2025-03-31 21:06:34,933 - val - INFO - best checkpoint saved.
+2025-03-31 21:07:09,809 - val - INFO - Test epoch 150: Average losses:	Loss: 81.610 |	MSE loss: 0.001 |	PSNR: 10.223732 |	PSNR_ori: 29.343681 |
+2025-03-31 21:07:09,816 - val - INFO - best checkpoint saved.
+2025-03-31 21:07:44,695 - val - INFO - Test epoch 155: Average losses:	Loss: 78.033 |	MSE loss: 0.001 |	PSNR: 10.223070 |	PSNR_ori: 29.518748 |
+2025-03-31 21:07:44,703 - val - INFO - best checkpoint saved.
+2025-03-31 21:08:19,605 - val - INFO - Test epoch 160: Average losses:	Loss: 74.631 |	MSE loss: 0.001 |	PSNR: 10.223069 |	PSNR_ori: 29.692716 |
+2025-03-31 21:08:19,614 - val - INFO - best checkpoint saved.
+2025-03-31 21:08:54,520 - val - INFO - Test epoch 165: Average losses:	Loss: 71.486 |	MSE loss: 0.001 |	PSNR: 10.223683 |	PSNR_ori: 29.858565 |
+2025-03-31 21:08:54,530 - val - INFO - best checkpoint saved.
+2025-03-31 21:09:29,400 - val - INFO - Test epoch 170: Average losses:	Loss: 68.523 |	MSE loss: 0.001 |	PSNR: 10.223939 |	PSNR_ori: 30.025644 |
+2025-03-31 21:09:29,408 - val - INFO - best checkpoint saved.
+2025-03-31 21:10:04,276 - val - INFO - Test epoch 175: Average losses:	Loss: 65.761 |	MSE loss: 0.001 |	PSNR: 10.224786 |	PSNR_ori: 30.187854 |
+2025-03-31 21:10:04,284 - val - INFO - best checkpoint saved.
+2025-03-31 21:10:39,119 - val - INFO - Test epoch 180: Average losses:	Loss: 63.171 |	MSE loss: 0.001 |	PSNR: 10.225236 |	PSNR_ori: 30.347649 |
+2025-03-31 21:10:39,128 - val - INFO - best checkpoint saved.
+2025-03-31 21:11:13,998 - val - INFO - Test epoch 185: Average losses:	Loss: 60.757 |	MSE loss: 0.001 |	PSNR: 10.224639 |	PSNR_ori: 30.505599 |
+2025-03-31 21:11:14,007 - val - INFO - best checkpoint saved.
+2025-03-31 21:11:48,918 - val - INFO - Test epoch 190: Average losses:	Loss: 58.507 |	MSE loss: 0.001 |	PSNR: 10.224357 |	PSNR_ori: 30.660314 |
+2025-03-31 21:11:48,926 - val - INFO - best checkpoint saved.
+2025-03-31 21:12:23,795 - val - INFO - Test epoch 195: Average losses:	Loss: 56.380 |	MSE loss: 0.001 |	PSNR: 10.220621 |	PSNR_ori: 30.818175 |
+2025-03-31 21:12:23,803 - val - INFO - best checkpoint saved.
+2025-03-31 21:12:58,644 - val - INFO - Test epoch 200: Average losses:	Loss: 54.413 |	MSE loss: 0.001 |	PSNR: 10.222511 |	PSNR_ori: 30.959706 |
+2025-03-31 21:12:58,654 - val - INFO - best checkpoint saved.
+2025-03-31 21:13:33,561 - val - INFO - Test epoch 205: Average losses:	Loss: 52.590 |	MSE loss: 0.001 |	PSNR: 10.222217 |	PSNR_ori: 31.101091 |
+2025-03-31 21:13:33,569 - val - INFO - best checkpoint saved.
+2025-03-31 21:14:08,509 - val - INFO - Test epoch 210: Average losses:	Loss: 50.862 |	MSE loss: 0.001 |	PSNR: 10.224083 |	PSNR_ori: 31.235513 |
+2025-03-31 21:14:08,516 - val - INFO - best checkpoint saved.
+2025-03-31 21:14:43,392 - val - INFO - Test epoch 215: Average losses:	Loss: 49.254 |	MSE loss: 0.001 |	PSNR: 10.223806 |	PSNR_ori: 31.367678 |
+2025-03-31 21:14:43,402 - val - INFO - best checkpoint saved.
+2025-03-31 21:15:18,294 - val - INFO - Test epoch 220: Average losses:	Loss: 47.734 |	MSE loss: 0.001 |	PSNR: 10.226719 |	PSNR_ori: 31.491775 |
+2025-03-31 21:15:18,303 - val - INFO - best checkpoint saved.
+2025-03-31 21:15:53,195 - val - INFO - Test epoch 225: Average losses:	Loss: 46.302 |	MSE loss: 0.001 |	PSNR: 10.227389 |	PSNR_ori: 31.618613 |
+2025-03-31 21:15:53,202 - val - INFO - best checkpoint saved.
+2025-03-31 21:16:28,073 - val - INFO - Test epoch 230: Average losses:	Loss: 44.971 |	MSE loss: 0.001 |	PSNR: 10.231274 |	PSNR_ori: 31.732582 |
+2025-03-31 21:16:28,079 - val - INFO - best checkpoint saved.
+2025-03-31 21:17:02,998 - val - INFO - Test epoch 235: Average losses:	Loss: 43.735 |	MSE loss: 0.001 |	PSNR: 10.232707 |	PSNR_ori: 31.848181 |
+2025-03-31 21:17:03,006 - val - INFO - best checkpoint saved.
+2025-03-31 21:17:37,906 - val - INFO - Test epoch 240: Average losses:	Loss: 42.572 |	MSE loss: 0.001 |	PSNR: 10.234316 |	PSNR_ori: 31.959553 |
+2025-03-31 21:17:37,914 - val - INFO - best checkpoint saved.
+2025-03-31 21:18:12,854 - val - INFO - Test epoch 245: Average losses:	Loss: 41.489 |	MSE loss: 0.001 |	PSNR: 10.233775 |	PSNR_ori: 32.070133 |
+2025-03-31 21:18:12,863 - val - INFO - best checkpoint saved.
+2025-03-31 21:18:47,787 - val - INFO - Test epoch 250: Average losses:	Loss: 40.472 |	MSE loss: 0.001 |	PSNR: 10.236372 |	PSNR_ori: 32.170495 |
+2025-03-31 21:18:47,794 - val - INFO - best checkpoint saved.
+2025-03-31 21:19:22,699 - val - INFO - Test epoch 255: Average losses:	Loss: 39.504 |	MSE loss: 0.001 |	PSNR: 10.236472 |	PSNR_ori: 32.273897 |
+2025-03-31 21:19:22,709 - val - INFO - best checkpoint saved.
+2025-03-31 21:19:57,610 - val - INFO - Test epoch 260: Average losses:	Loss: 38.586 |	MSE loss: 0.001 |	PSNR: 10.237733 |	PSNR_ori: 32.371618 |
+2025-03-31 21:19:57,617 - val - INFO - best checkpoint saved.
+2025-03-31 21:20:32,509 - val - INFO - Test epoch 265: Average losses:	Loss: 37.711 |	MSE loss: 0.001 |	PSNR: 10.238236 |	PSNR_ori: 32.468890 |
+2025-03-31 21:20:32,517 - val - INFO - best checkpoint saved.
+2025-03-31 21:21:07,392 - val - INFO - Test epoch 270: Average losses:	Loss: 36.886 |	MSE loss: 0.001 |	PSNR: 10.239867 |	PSNR_ori: 32.561994 |
+2025-03-31 21:21:07,399 - val - INFO - best checkpoint saved.
+2025-03-31 21:21:42,329 - val - INFO - Test epoch 275: Average losses:	Loss: 36.084 |	MSE loss: 0.001 |	PSNR: 10.240523 |	PSNR_ori: 32.653589 |
+2025-03-31 21:21:42,336 - val - INFO - best checkpoint saved.
+2025-03-31 21:22:17,328 - val - INFO - Test epoch 280: Average losses:	Loss: 35.321 |	MSE loss: 0.001 |	PSNR: 10.242664 |	PSNR_ori: 32.743741 |
+2025-03-31 21:22:17,335 - val - INFO - best checkpoint saved.
+2025-03-31 21:22:52,257 - val - INFO - Test epoch 285: Average losses:	Loss: 34.582 |	MSE loss: 0.001 |	PSNR: 10.247639 |	PSNR_ori: 32.824200 |
+2025-03-31 21:22:52,265 - val - INFO - best checkpoint saved.
+2025-03-31 21:23:27,153 - val - INFO - Test epoch 290: Average losses:	Loss: 33.877 |	MSE loss: 0.001 |	PSNR: 10.247774 |	PSNR_ori: 32.914053 |
+2025-03-31 21:23:27,160 - val - INFO - best checkpoint saved.
+2025-03-31 21:24:02,062 - val - INFO - Test epoch 295: Average losses:	Loss: 33.202 |	MSE loss: 0.001 |	PSNR: 10.246252 |	PSNR_ori: 33.005716 |
+2025-03-31 21:24:02,073 - val - INFO - best checkpoint saved.
+2025-03-31 21:24:36,982 - val - INFO - Test epoch 300: Average losses:	Loss: 32.544 |	MSE loss: 0.001 |	PSNR: 10.246747 |	PSNR_ori: 33.093035 |
+2025-03-31 21:24:36,989 - val - INFO - best checkpoint saved.
+2025-03-31 21:25:11,917 - val - INFO - Test epoch 305: Average losses:	Loss: 31.975 |	MSE loss: 0.000 |	PSNR: 10.241036 |	PSNR_ori: 33.183012 |
+2025-03-31 21:25:11,924 - val - INFO - best checkpoint saved.
+2025-03-31 21:25:46,771 - val - INFO - Test epoch 310: Average losses:	Loss: 31.390 |	MSE loss: 0.000 |	PSNR: 10.241388 |	PSNR_ori: 33.262736 |
+2025-03-31 21:25:46,779 - val - INFO - best checkpoint saved.
+2025-03-31 21:26:21,723 - val - INFO - Test epoch 315: Average losses:	Loss: 30.757 |	MSE loss: 0.000 |	PSNR: 10.263198 |	PSNR_ori: 33.305075 |
+2025-03-31 21:26:21,730 - val - INFO - best checkpoint saved.
+2025-03-31 21:26:56,660 - val - INFO - Test epoch 320: Average losses:	Loss: 30.229 |	MSE loss: 0.000 |	PSNR: 10.272715 |	PSNR_ori: 33.359062 |
+2025-03-31 21:26:56,667 - val - INFO - best checkpoint saved.
+2025-03-31 21:27:31,555 - val - INFO - Test epoch 325: Average losses:	Loss: 29.667 |	MSE loss: 0.000 |	PSNR: 10.271749 |	PSNR_ori: 33.445209 |
+2025-03-31 21:27:31,563 - val - INFO - best checkpoint saved.
+2025-03-31 21:28:06,469 - val - INFO - Test epoch 330: Average losses:	Loss: 29.159 |	MSE loss: 0.000 |	PSNR: 10.269144 |	PSNR_ori: 33.531891 |
+2025-03-31 21:28:06,480 - val - INFO - best checkpoint saved.
+2025-03-31 21:28:41,429 - val - INFO - Test epoch 335: Average losses:	Loss: 28.652 |	MSE loss: 0.000 |	PSNR: 10.269380 |	PSNR_ori: 33.607168 |
+2025-03-31 21:28:41,437 - val - INFO - best checkpoint saved.
+2025-03-31 21:29:16,382 - val - INFO - Test epoch 340: Average losses:	Loss: 28.154 |	MSE loss: 0.000 |	PSNR: 10.268061 |	PSNR_ori: 33.688911 |
+2025-03-31 21:29:16,389 - val - INFO - best checkpoint saved.
+2025-03-31 21:29:51,285 - val - INFO - Test epoch 345: Average losses:	Loss: 27.675 |	MSE loss: 0.000 |	PSNR: 10.268991 |	PSNR_ori: 33.765299 |
+2025-03-31 21:29:51,295 - val - INFO - best checkpoint saved.
+2025-03-31 21:30:26,195 - val - INFO - Test epoch 350: Average losses:	Loss: 27.219 |	MSE loss: 0.000 |	PSNR: 10.269072 |	PSNR_ori: 33.842949 |
+2025-03-31 21:30:26,202 - val - INFO - best checkpoint saved.
+2025-03-31 21:31:01,057 - val - INFO - Test epoch 355: Average losses:	Loss: 26.813 |	MSE loss: 0.000 |	PSNR: 10.276763 |	PSNR_ori: 33.892764 |
+2025-03-31 21:31:01,065 - val - INFO - best checkpoint saved.
+2025-03-31 21:31:35,916 - val - INFO - Test epoch 360: Average losses:	Loss: 26.468 |	MSE loss: 0.000 |	PSNR: 10.285333 |	PSNR_ori: 33.931497 |
+2025-03-31 21:31:35,926 - val - INFO - best checkpoint saved.
+2025-03-31 21:32:10,881 - val - INFO - Test epoch 365: Average losses:	Loss: 26.058 |	MSE loss: 0.000 |	PSNR: 10.280638 |	PSNR_ori: 34.016953 |
+2025-03-31 21:32:10,889 - val - INFO - best checkpoint saved.
+2025-03-31 21:32:45,729 - val - INFO - Test epoch 370: Average losses:	Loss: 25.816 |	MSE loss: 0.000 |	PSNR: 10.295529 |	PSNR_ori: 34.020802 |
+2025-03-31 21:32:45,739 - val - INFO - best checkpoint saved.
+2025-03-31 21:33:20,706 - val - INFO - Test epoch 375: Average losses:	Loss: 25.380 |	MSE loss: 0.000 |	PSNR: 10.287059 |	PSNR_ori: 34.109933 |
+2025-03-31 21:33:20,714 - val - INFO - best checkpoint saved.
+2025-03-31 21:33:55,658 - val - INFO - Test epoch 380: Average losses:	Loss: 24.987 |	MSE loss: 0.000 |	PSNR: 10.271380 |	PSNR_ori: 34.222472 |
+2025-03-31 21:33:55,665 - val - INFO - best checkpoint saved.
+2025-03-31 21:34:30,681 - val - INFO - Test epoch 385: Average losses:	Loss: 24.729 |	MSE loss: 0.000 |	PSNR: 10.285979 |	PSNR_ori: 34.228345 |
+2025-03-31 21:34:30,691 - val - INFO - best checkpoint saved.
+2025-03-31 21:35:05,597 - val - INFO - Test epoch 390: Average losses:	Loss: 24.471 |	MSE loss: 0.000 |	PSNR: 10.291033 |	PSNR_ori: 34.258164 |
+2025-03-31 21:35:05,605 - val - INFO - best checkpoint saved.
+2025-03-31 21:35:40,524 - val - INFO - Test epoch 395: Average losses:	Loss: 24.521 |	MSE loss: 0.000 |	PSNR: 10.254255 |	PSNR_ori: 34.405373 |
+2025-03-31 21:36:15,452 - val - INFO - Test epoch 400: Average losses:	Loss: 23.805 |	MSE loss: 0.000 |	PSNR: 10.286830 |	PSNR_ori: 34.389214 |
+2025-03-31 21:36:15,462 - val - INFO - best checkpoint saved.
+2025-03-31 21:36:50,357 - val - INFO - Test epoch 405: Average losses:	Loss: 24.459 |	MSE loss: 0.000 |	PSNR: 10.226990 |	PSNR_ori: 34.479945 |
+2025-03-31 21:37:25,389 - val - INFO - Test epoch 410: Average losses:	Loss: 27.081 |	MSE loss: 0.000 |	PSNR: 10.387826 |	PSNR_ori: 33.585479 |
+2025-03-31 21:38:00,331 - val - INFO - Test epoch 415: Average losses:	Loss: 22.890 |	MSE loss: 0.000 |	PSNR: 10.262959 |	PSNR_ori: 34.641483 |
+2025-03-31 21:38:00,339 - val - INFO - best checkpoint saved.
+2025-03-31 21:38:35,316 - val - INFO - Test epoch 420: Average losses:	Loss: 26.207 |	MSE loss: 0.000 |	PSNR: 10.375086 |	PSNR_ori: 33.715247 |
+2025-03-31 21:39:10,304 - val - INFO - Test epoch 425: Average losses:	Loss: 22.276 |	MSE loss: 0.000 |	PSNR: 10.253228 |	PSNR_ori: 34.771168 |
+2025-03-31 21:39:10,312 - val - INFO - best checkpoint saved.
+2025-03-31 21:39:45,301 - val - INFO - Test epoch 430: Average losses:	Loss: 21.980 |	MSE loss: 0.000 |	PSNR: 10.292075 |	PSNR_ori: 34.691662 |
+2025-03-31 21:39:45,310 - val - INFO - best checkpoint saved.
+2025-03-31 21:40:20,320 - val - INFO - Test epoch 435: Average losses:	Loss: 24.693 |	MSE loss: 0.000 |	PSNR: 10.365253 |	PSNR_ori: 34.017354 |
+2025-03-31 21:40:55,268 - val - INFO - Test epoch 440: Average losses:	Loss: 21.278 |	MSE loss: 0.000 |	PSNR: 10.271274 |	PSNR_ori: 34.898927 |
+2025-03-31 21:40:55,276 - val - INFO - best checkpoint saved.
+2025-03-31 21:41:30,203 - val - INFO - Test epoch 445: Average losses:	Loss: 21.053 |	MSE loss: 0.000 |	PSNR: 10.290063 |	PSNR_ori: 34.882941 |
+2025-03-31 21:41:30,210 - val - INFO - best checkpoint saved.
+2025-03-31 21:42:05,113 - val - INFO - Test epoch 450: Average losses:	Loss: 21.208 |	MSE loss: 0.000 |	PSNR: 10.313677 |	PSNR_ori: 34.791409 |
+2025-03-31 21:42:40,072 - val - INFO - Test epoch 455: Average losses:	Loss: 21.410 |	MSE loss: 0.000 |	PSNR: 10.324058 |	PSNR_ori: 34.699504 |
+2025-03-31 21:43:15,052 - val - INFO - Test epoch 460: Average losses:	Loss: 20.136 |	MSE loss: 0.000 |	PSNR: 10.257899 |	PSNR_ori: 35.153294 |
+2025-03-31 21:43:15,059 - val - INFO - best checkpoint saved.
+2025-03-31 21:43:50,010 - val - INFO - Test epoch 465: Average losses:	Loss: 20.245 |	MSE loss: 0.000 |	PSNR: 10.297100 |	PSNR_ori: 34.993302 |
+2025-03-31 21:44:25,020 - val - INFO - Test epoch 470: Average losses:	Loss: 20.268 |	MSE loss: 0.000 |	PSNR: 10.306700 |	PSNR_ori: 34.949780 |
+2025-03-31 21:45:00,079 - val - INFO - Test epoch 475: Average losses:	Loss: 19.366 |	MSE loss: 0.000 |	PSNR: 10.266312 |	PSNR_ori: 35.288284 |
+2025-03-31 21:45:00,087 - val - INFO - best checkpoint saved.
+2025-03-31 21:45:35,132 - val - INFO - Test epoch 480: Average losses:	Loss: 24.249 |	MSE loss: 0.000 |	PSNR: 10.134435 |	PSNR_ori: 34.723065 |
+2025-03-31 21:46:10,164 - val - INFO - Test epoch 485: Average losses:	Loss: 19.110 |	MSE loss: 0.000 |	PSNR: 10.292816 |	PSNR_ori: 35.274874 |
+2025-03-31 21:46:10,171 - val - INFO - best checkpoint saved.
+2025-03-31 21:46:45,201 - val - INFO - Test epoch 490: Average losses:	Loss: 21.011 |	MSE loss: 0.000 |	PSNR: 10.347121 |	PSNR_ori: 34.673223 |
+2025-03-31 21:47:20,214 - val - INFO - Test epoch 495: Average losses:	Loss: 22.873 |	MSE loss: 0.000 |	PSNR: 10.389982 |	PSNR_ori: 34.252612 |
+2025-03-31 21:47:55,174 - val - INFO - Test epoch 500: Average losses:	Loss: 18.289 |	MSE loss: 0.000 |	PSNR: 10.241519 |	PSNR_ori: 35.640783 |
+2025-03-31 21:47:55,181 - val - INFO - best checkpoint saved.
+2025-03-31 21:48:30,073 - val - INFO - Test epoch 505: Average losses:	Loss: 20.383 |	MSE loss: 0.000 |	PSNR: 10.161524 |	PSNR_ori: 35.404859 |
+2025-03-31 21:49:04,980 - val - INFO - Test epoch 510: Average losses:	Loss: 17.667 |	MSE loss: 0.000 |	PSNR: 10.279423 |	PSNR_ori: 35.687893 |
+2025-03-31 21:49:04,989 - val - INFO - best checkpoint saved.
+2025-03-31 21:49:39,931 - val - INFO - Test epoch 515: Average losses:	Loss: 17.291 |	MSE loss: 0.000 |	PSNR: 10.253516 |	PSNR_ori: 35.760528 |
+2025-03-31 21:49:39,938 - val - INFO - best checkpoint saved.
+2025-03-31 21:50:14,865 - val - INFO - Test epoch 520: Average losses:	Loss: 18.568 |	MSE loss: 0.000 |	PSNR: 10.181071 |	PSNR_ori: 35.758884 |
+2025-03-31 21:50:49,762 - val - INFO - Test epoch 525: Average losses:	Loss: 17.957 |	MSE loss: 0.000 |	PSNR: 10.322573 |	PSNR_ori: 35.442558 |
+2025-03-31 21:51:24,742 - val - INFO - Test epoch 530: Average losses:	Loss: 16.819 |	MSE loss: 0.000 |	PSNR: 10.218063 |	PSNR_ori: 36.055736 |
+2025-03-31 21:51:24,750 - val - INFO - best checkpoint saved.
+2025-03-31 21:51:59,787 - val - INFO - Test epoch 535: Average losses:	Loss: 16.392 |	MSE loss: 0.000 |	PSNR: 10.230666 |	PSNR_ori: 36.092624 |
+2025-03-31 21:51:59,795 - val - INFO - best checkpoint saved.
+2025-03-31 21:52:34,755 - val - INFO - Test epoch 540: Average losses:	Loss: 16.150 |	MSE loss: 0.000 |	PSNR: 10.274728 |	PSNR_ori: 35.997603 |
+2025-03-31 21:52:34,762 - val - INFO - best checkpoint saved.
+2025-03-31 21:53:09,687 - val - INFO - Test epoch 545: Average losses:	Loss: 17.690 |	MSE loss: 0.000 |	PSNR: 10.169062 |	PSNR_ori: 36.009462 |
+2025-03-31 21:53:44,590 - val - INFO - Test epoch 550: Average losses:	Loss: 15.483 |	MSE loss: 0.000 |	PSNR: 10.254781 |	PSNR_ori: 36.262653 |
+2025-03-31 21:53:44,597 - val - INFO - best checkpoint saved.
+2025-03-31 21:54:19,517 - val - INFO - Test epoch 555: Average losses:	Loss: 16.073 |	MSE loss: 0.000 |	PSNR: 10.292106 |	PSNR_ori: 35.916968 |
+2025-03-31 21:54:54,463 - val - INFO - Test epoch 560: Average losses:	Loss: 15.493 |	MSE loss: 0.000 |	PSNR: 10.292921 |	PSNR_ori: 36.126956 |
